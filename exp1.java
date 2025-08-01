@@ -1,6 +1,6 @@
 Exercise 1 - Usage of Control Statements for Logical Building
 
-
+    
 ##Cinema Ticket
 
 package git;
@@ -32,9 +32,9 @@ public class CinemaTicket {
     }
 }
 
-
 #ElectricityUsage
- 
+
+    
 package git;
 import java.util.Scanner;
 public class ElectricityUsage {
@@ -59,6 +59,7 @@ public class ElectricityUsage {
 
 #ATM SYSTEM
 
+    
 package git;
 import java.util.Scanner;
 public class ATM {
@@ -101,6 +102,7 @@ public class ATM {
 
 #GuessGame
 
+    
 package git;
 import java.util.Scanner;
 import java.util.Random;
