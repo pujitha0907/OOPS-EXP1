@@ -4,3 +4,9 @@
 
 
 #Ticket
+
+
+<img width="358" height="373" alt="Image" src="https://github.com/user-attachments/assets/d4ca9d03-5e1e-40eb-881b-8bc835ef335f" />
+
+
+#Electricity
