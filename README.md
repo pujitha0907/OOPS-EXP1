@@ -10,3 +10,8 @@
 
 
 #Electricity
+
+
+<img width="353" height="635" alt="Image" src="https://github.com/user-attachments/assets/424962ff-137b-4e33-aacf-edcee9da20a8" />
+
+#ATM
